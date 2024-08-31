@@ -2,6 +2,8 @@
 
 This repository contains a Jupyter Notebook for analyzing and predicting wind turbine power output using machine learning techniques. The analysis utilizes a dataset of wind turbine data collected from 2013 to 2016.
 
+I completed this project as part of a Data Mining class assignment at UCSC in the fall of 2021.
+
 ## Dataset
 
 The dataset used in this project is sourced from the [ENGIE Open Data](https://opendata-renewables.engie.com/explore/dataset/d543716b-368d-4c53-8fb1-55addbe8d3ad/information). It includes various parameters such as wind speed, temperature, and power output recorded over several years at a wind farm.
